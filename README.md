@@ -1,4 +1,4 @@
-[![linkedin Badge](https://img.shields.io/badge/redmondtran-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/redmondtran)](https://www.linkedin.com/in/redmondtran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/redmondtran)
 
 -  Currently at [Epic Games](https://create.fortnite.com/), as a Full Stack Engineer 💼 
 -  Previously Full Stack at [Unity Technologies](https://unity.com/) & [Splunk](https://www.splunk.com/) 🏢 
